@@ -5,6 +5,7 @@ main {
   color: #fff;
   font-family: Verdana;
   font-size: 16px;
+  text-align: center;
   & h1 {
     font-size: 50px;
     font-weight: normal;
