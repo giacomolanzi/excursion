@@ -1,10 +1,10 @@
 body {
   background-color: #000;
   margin: 8px;
+  font-family: Verdana;
 }
 main {
   color: #fff;
-  font-family: Verdana;
   font-size: 16px;
   text-align: center;
   & h1 {
@@ -23,4 +23,8 @@ main {
     font-size: 21px;
     color: grey;
   }
+}
+footer {
+  text-align: right;
+  color: grey;
 }
